@@ -1,16 +1,16 @@
-### Hi there 👋
+## GHooN's Github! 👋
 
-<!--
-**GHooN99/GHooN99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 이 깃허브에는...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+|저장소|설명|
+-|-
+[My_study]|평소 공부한 내용과 코드를 정리한 곳 입니다.
+[Toy_Projects]|간단한 토이프로젝트를 모아놓은 곳 입니다.
+[2020_SW_Project]|2020 1학기 창의SW기초설계 수업 프로젝트 저장소입니다.
+
+
+[My_study]:https://github.com/GHooN99/My_study
+[Toy_Projects]:https://github.com/GHooN99/Toy_Projects
+[2020_SW_Project]:https://github.com/GHooN99/2020_SW_Project
