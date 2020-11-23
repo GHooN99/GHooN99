@@ -12,7 +12,8 @@
 
 - [2020 1학기 기초설계 프로젝트](https://github.com/GHooN99/2020_SW_Project)
 - [2020 상반기 공부내용들](https://github.com/GHooN99/My_study)
-- [코딩에 입문하고 만들어본 간단한 플젝들](https://github.com/GHooN99/Toy_Projects)
+- [2020 하반기 공부내용들](https://github.com/GHooN99/My_study2)
+- [코딩에 입문하고 만들어본 간단한 프로젝트들](https://github.com/GHooN99/Toy_Projects)
 - [2020 2학기 웹프로그래밍 수업](https://github.com/GHooN99/2020_WebProgramming)
 - [자료구조와 알고리즘 내용 정리](https://github.com/GHooN99/DataStructure-Algorithm_C)
 
