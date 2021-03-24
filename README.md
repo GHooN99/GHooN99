@@ -1,7 +1,29 @@
 ## GHooN's Github! 👋 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGHooN99&count_bg=%233DC8B4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 공사중!!! 열심히 공부중입니다......
+### [💡 소개는 여기로!!]()
+
+### 📃 깃허브 요약 
+
+#### 💻 프로젝트 관련
+
+- [웹 토이 프로젝트](https://github.com/GHooN99/WebToyProject)
+- [2020 1학기 창의SW 기초설계 프로젝트](https://github.com/GHooN99/2020_SW_Project)
+- [코딩에 입문하고 만들어본 간단한 프로젝트들](https://github.com/GHooN99/Toy_Projects)
+
+
+#### 📖 공부 관련
+
+- [2020 상반기 공부내용들](https://github.com/GHooN99/My_study)
+- [2020 하반기 공부내용들](https://github.com/GHooN99/My_study2)
+- [캐글,데이콘 데이터분석 코드](https://github.com/GHooN99/My_Kaggle)
+
+#### 📚 스터디 운영 관련
+
+- [2021 스마클 인공지능 기초 스터디](https://github.com/sejongsmarcle/2021_Winter_AiStudy)
+- [2021 스마클 아두이노 기초 스터디](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy)
+- [2021 파이썬 알고리즘 문제풀이 스터디](https://github.com/Sejong-SWStudy/2021_SJU_BOJAlgorithm.py)
+
 
 <div align="center">
 
