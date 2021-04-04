@@ -1,5 +1,5 @@
 ## GHooN's Github! 👋 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGHooN99&count_bg=%233DC8B4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 ### [💡 소개는 여기로!!](https://www.notion.so/890eca143a2b4ac19abe685a2c7c43f9)
 
