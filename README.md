@@ -6,7 +6,7 @@
 ## 📃 깃허브 요약 
 
 #### 💻 프로젝트 관련
-- [프로필 카드 메이커](https://github.com/GHooN99/my-todolist-react)
+- [프로필 카드 메이커](https://github.com/GHooN99/profile-card-maker)
 - [리액트로 TODOLIST](https://github.com/GHooN99/my-todolist-react)
 - [2020 1학기 창의SW 기초설계 프로젝트](https://github.com/GHooN99/2020_SW_Project)
 - [코딩에 입문하고 만들어본 간단한 프로젝트들](https://github.com/GHooN99/Toy_Projects)
