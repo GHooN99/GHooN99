@@ -1,7 +1,4 @@
 ## GHooN's Github! 👋 
-> 제가 궁금하시다면..??
-### [💡 소개는 여기로!!](https://bit.ly/ghoon99)
-### [📖 블로그는 여기로!!](https://ghoon99.tistory.com/)
 
 ## 📃 깃허브 요약 
 
